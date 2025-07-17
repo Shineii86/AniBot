@@ -1,7 +1,7 @@
 # AniWatch
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YourUsername/AniWatch?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/AniWatch?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shineii86/AniWatch?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Shineii86/AniWatch?style=social)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
